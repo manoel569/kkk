@@ -1,0 +1,13 @@
+#EXTM3U
+EXTINF:-1,AMC
+http://tvnanet.xyz:25461/live/palmeiras/1986/31.m3u8
+#EXTINF:-1,CINEMAX
+http://tvnanet.xyz:25461/live/palmeiras/1986/31.m3u8
+#EXTINF:-1,HBO
+http://tvnanet.xyz:25461/live/palmeiras/1986/144.m3u8
+#EXTINF:-1,HBO 2
+http://tvnanet.xyz:25461/live/palmeiras/1986/136.m3u8
+#EXTINF:-1,TELECINE PIPOCA
+http://tvnanet.xyz:25461/live/palmeiras/1986/245.m3u8
+#EXTINF:-1,TELECINE ACTION
+http://tvnanet.xyz:25461/live/palmeiras/1986/239.m3u8
